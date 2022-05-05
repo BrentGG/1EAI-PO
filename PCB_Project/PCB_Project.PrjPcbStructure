@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Amplification.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Amplification.SchDoc|FileName=Display.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Amplification.SchDoc|FileName=Heating.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Amplification.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Amplification.SchDoc|FileName=Processor.SchDoc|SheetNumber=4

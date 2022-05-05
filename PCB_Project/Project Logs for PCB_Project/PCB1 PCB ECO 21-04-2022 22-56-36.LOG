@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=L2 Old Footprint=10UH CHOKE COIL New Footprint=common mode choke
+Added Pin To Net: NetName=NetK8_2 Pin=L2-3
+Added Pin To Net: NetName=GND Pin=L2-4
+Added Room: Name=Amplification
+Added Room: Name=Display
+Added Room: Name=Heating
+Added Room: Name=Power
+Added Room: Name=Processor
