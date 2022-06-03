@@ -1,0 +1,11 @@
+Bij uit elkaar halen en in elkaar steken opletten met de verluchtingsgaten aan de zijkant, ze zijn niet erg sterk.
+
+Uit elkaar halen:
+1. Twee bouten onderkant losdraaien.
+2. Vier M4 bouten achterkant losdraaien (dus de M3s laten zitten, zijn voor de PCB).
+3. Voorzichtig de boven/voorkant van de onder/achterkant halen (oppassen met draadjes die de twee delen verbinden).
+
+In elkaar steken:
+1. Boven/voorkant voorzichtig en zo goed mogelijk op elkaar krijgen.
+2. Eerst de twee bouten aan de onderkant indraaien (de twee korte M4s).
+3. De vier M4s aan de achterkant indraaien.
