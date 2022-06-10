@@ -6,3 +6,4 @@
 - BOM: bill of materials
 - assembly_disassembly_instructions: instructions on how to open and close the case
 - images: images of the CAD model as well as the final product
+- soldering_station_presentation: the powerpoint presentation used during the presentation of the soldering station
